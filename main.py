@@ -15,6 +15,9 @@ while is_on:
     if user_input == "report":
         coffee_maker.report()
         money_machine.report()
- 
+    elif user_input == "off":
+        is_on = False
+
+
 
 
