@@ -73,6 +73,7 @@
       Money: $2.5
       
       ###### Resources for each coffee:
+      
       -espresso: water(50ml), coffee(18g), cost($1.5)
       -latte: water(200ml), milk(150ml), coffee(24g), cost($2.5)
       -latte: water(200ml), milk(150ml), coffee(24g), cost($2.5)
