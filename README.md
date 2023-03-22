@@ -71,12 +71,11 @@
       Milk: 50ml<br />
       Coffee: 76g<br />
       Money: $2.5
+  ###### Resources for each coffee:
+      espresso: water(50ml), coffee(18g), cost($1.5)
+      latte: water(200ml), milk(150ml), coffee(24g), cost($2.5)
+      latte: water(200ml), milk(150ml), coffee(24g), cost($2.5)
       
-      ###### Resources for each coffee:
-      
-      -espresso: water(50ml), coffee(18g), cost($1.5)
-      -latte: water(200ml), milk(150ml), coffee(24g), cost($2.5)
-      -latte: water(200ml), milk(150ml), coffee(24g), cost($2.5)
   
    b. Once all resources have been deducted, it will tell the user “Here is your latte. Enjoy!”. If latte was their choice of drink.
   
